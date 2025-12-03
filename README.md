@@ -1,1 +1,2 @@
 # Makefile_titanic_project
+Makefiles are among the simplest yet most effective tools for automating workflows in machine learning and data science. They enable you to create fully reproducible pipelines with just a few commands, help avoid redundant work, keep your project well-organized, and make sure each step runs in the correct sequence. Whether you're on Linux, macOS, or WSL, mastering Make can quickly become a valuable skill. It simplifies complex workflows into clear, dependable, and repeatable pipelines, precisely what modern AI and data science demand.
