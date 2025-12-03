@@ -1,5 +1,5 @@
 
-# Titanic ML Pipeline — Automated with Makefile
+# Titanic ML Automated with Makefile
 
 This project demonstrates a complete, end-to-end Machine Learning workflow using the **Titanic Kaggle dataset**, fully automated using a **Makefile pipeline**.
 
