@@ -1,23 +1,23 @@
-titanic_project/
+titanic_project/     
 │
-├── data/
-│   ├── raw.csv
-│   ├── train.csv      (downloaded from Kaggle)
-│   ├── test.csv       (downloaded from Kaggle)
-│   ├── clean.csv
-│   ├── features.csv
+├── data/    
+│   ├── raw.csv    
+│   ├── train.csv      (downloaded from Kaggle)    
+│   ├── test.csv       (downloaded from Kaggle)   
+│   ├── clean.csv   
+│   ├── features.csv   
 │
 ├── models/
-│   └── model.pkl
+│   └── model.pkl   
 │
-├── submission/
-│   └── submission.csv
+├── submission/   
+│   └── submission.csv    
 │
-├── scripts/
-│   ├── clean.py
-│   ├── features.py
-│   ├── train.py
-│   └── create_submission.py
+├── scripts/   
+│   ├── clean.py   
+│   ├── features.py    
+│   ├── train.py   
+│   └── create_submission.py   
 │
 ├── Makefile
 └── README.md
