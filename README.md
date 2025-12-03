@@ -27,8 +27,8 @@ titanic_project/
 │
 ├── data/
 │   ├── raw.csv
-│   ├── train.csv        # downloaded from Kaggle
-│   ├── test.csv         # downloaded from Kaggle
+│   ├── train.csv        
+│   ├── test.csv         
 │   ├── clean.csv
 │   ├── features.csv
 │
